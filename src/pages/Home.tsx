@@ -1,6 +1,5 @@
 import React from 'react'
 import { Grid } from '@mui/material';
-
 import Posts from '../components/Posts';
 import NavBarTwo from '../components/NavBarTwo';
 

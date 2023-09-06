@@ -1,5 +1,5 @@
 import { Box, Button, FormControl, InputAdornment, InputLabel, Typography, OutlinedInput, Stack, TextField } from '@mui/material';
-import React, { useEffect, useState } from 'react'
+import React, { useState } from 'react'
 import { postPost } from '../apis/apis';
 import { useNavigate } from 'react-router-dom';
 

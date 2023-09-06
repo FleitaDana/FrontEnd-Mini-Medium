@@ -57,7 +57,7 @@ const FormularioSignIn = () => {
                 navigate('/Home');
             })
             .catch((error) => {
-                console.error('Registration request failed:', error);
+                console.error('Login on failure:', error);
             });
     };
 
